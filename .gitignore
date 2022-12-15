@@ -1,6 +1,5 @@
 
 *.csproj
 
-Project_ProgressRPG/[Ll]ibrary/
-Project_ProgressRPG/Library/
-/Library/
+
+Library/
